@@ -1,0 +1,85 @@
+{
+  "id": "895c6d2f-e089-473c-bc91-63c86d6cada3",
+  "name": "order.description-context: onging-order",
+  "auto": true,
+  "contexts": [
+    "ongoing-order"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-order",
+          "lifespan": 5
+        },
+        {
+          "name": "orderdescription-contextonging-order-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a1fc3312-88cf-4e37-a606-f9dbfec9f43e",
+          "name": "number",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify your Quantity (e.g: 2 Tamyia or one Hawawshi)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1bcc634f-9065-4432-9e68-ce7c28817ebb",
+          "name": "menu_list",
+          "required": true,
+          "dataType": "@menu_list",
+          "value": "$menu_list",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify your order from our menu list :Koshari, Tamiya, Mahshi, Mulukhiyah, Feteer Meshaltet, Hawawshi, Konafah, Umm Ali, Basbousa and Samosa."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay your order is $menu_list and their Quantity is $number , is that right ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "08be8ad0-a135-4c90-a50c-9a0301668dcf",
+  "name": "menu_list",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

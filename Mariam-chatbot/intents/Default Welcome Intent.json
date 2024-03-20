@@ -1,0 +1,53 @@
+{
+  "id": "3a303e18-6aac-41ca-bc4d-11c1b16057ed",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://images.pexels.com/photos/810041/pexels-photo-810041.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026w\u003d1260\u0026h\u003d750\u0026dpr\u003d1",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello! Welcome to Mariam Store , How can I help you? You can say \"New Order\" or \"Track Order\"",
+            "Good day! Mariam Store is blessed to have you ,What can I do for you today? You can say \"New Order\" or \"Track Order\"",
+            "HI! Welcome to Mariam Store ,How can I assist? You can say \"New Order\" or \"Track Order\""
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

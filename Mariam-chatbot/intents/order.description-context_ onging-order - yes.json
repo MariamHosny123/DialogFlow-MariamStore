@@ -1,0 +1,45 @@
+{
+  "id": "ac53a833-245b-4399-9618-6586b464dd44",
+  "parentId": "895c6d2f-e089-473c-bc91-63c86d6cada3",
+  "rootParentId": "895c6d2f-e089-473c-bc91-63c86d6cada3",
+  "name": "order.description-context: onging-order - yes",
+  "auto": true,
+  "contexts": [
+    "ongoing-order",
+    "orderdescription-contextonging-order-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderdescription-contextonging-order.orderdescription-contextonging-order-yes",
+      "affectedContexts": [
+        {
+          "name": "orderdescription-contextonging-order-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "can you please Provide your name and phone number to confirm your order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

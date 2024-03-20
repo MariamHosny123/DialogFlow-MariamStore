@@ -1,0 +1,53 @@
+{
+  "id": "1a41c1ee-53a9-4695-9b87-f5779a57a2d4",
+  "name": "new.order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-order",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://www.pexels.com/photo/black-and-white-counter-table-3285137/",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certianly, Here is our menu : Koshari, Tamiya, Hamam Mahshi, Mulukhiyah, Feteer Meshaltet, Hawawshi, Kanafeh, Umm Ali, Basbousa and Samosa.                                                                                               Also specify a quantity for each item for example: \"One Koshari and 2 Hawawshi\"",
+            "With Pleasure, Here is our menu: Koshari, Tamiya, Hamam Mahshi, Mulukhiyah, Feteer Meshaltet, Hawawshi, Kanafeh, Umm Ali, Basbousa and Samosa.                                                                                               Also specify a quantity for each item for example: \"One Koshari and 2 Hawawshi\""
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

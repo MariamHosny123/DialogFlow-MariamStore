@@ -1,0 +1,428 @@
+[
+  {
+    "id": "39476fc7-ed62-4f10-8127-221de4e30022",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "konafa",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      },
+      {
+        "text": " , ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "basbosa",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c131bc3a-b8db-46c7-a883-e01f89e6e7b5",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sambosa",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02ae89e7-e3be-4db4-9957-2b29dcc0b84e",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hawawshi",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": " ,",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "koshari",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98929feb-6f8d-41a2-b625-22cd77ef1723",
+    "data": [
+      {
+        "text": "  I\u0027d like to order ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " plates of ",
+        "userDefined": false
+      },
+      {
+        "text": "Umm Ali",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": " , ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Basbousa",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " Samosa , please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbb6d6da-ab4e-4213-8d81-60f73476068f",
+    "data": [
+      {
+        "text": "I\u0027ll take ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " orders of ",
+        "userDefined": false
+      },
+      {
+        "text": "hawashi",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": " , 6 ",
+        "userDefined": false
+      },
+      {
+        "text": "sambosa",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": " , and ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "umm ali",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71b6ce29-cbb9-4625-9ee0-f2c92bd58e29",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " plates of ",
+        "userDefined": false
+      },
+      {
+        "text": "Mulukhiyah",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": ", along with ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Koshari",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Konafah",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe9f3390-c6ac-4f01-be71-b5ea23fab31f",
+    "data": [
+      {
+        "text": "Please prepare ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Feteer Meshaltet",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": ", along with ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Tamiya",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Mahshi",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92ed7949-0d86-4c5b-8c2c-9b0c09d67c0f",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " plates of ",
+        "userDefined": false
+      },
+      {
+        "text": "Koshari",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      },
+      {
+        "text": "  and one ",
+        "userDefined": false
+      },
+      {
+        "text": "Hawawshi",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

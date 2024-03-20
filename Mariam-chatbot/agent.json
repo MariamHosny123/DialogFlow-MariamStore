@@ -1,0 +1,42 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "Mariam-chatbot",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Europe/Moscow",
+  "webhook": {
+    "url": "https://wadi-me-admin.wadigroup.com.eg/servlets/RequestServlet",
+    "username": "administrator",
+    "headers": {
+      "operation": "GetRequestDetails",
+      "password": "Wadi@3030",
+      "username": "administrator",
+      "workOrderID": "5345"
+    },
+    "available": true,
+    "useForDomains": true,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "230ab2e9aa4a4cddbd5bb790f61b38c5",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/mariam-chatbot-eiko/knowledgeBases/MTYzMTA2OTY3MjEwMjc5NTY3Mzc"
+  ],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": true
+}

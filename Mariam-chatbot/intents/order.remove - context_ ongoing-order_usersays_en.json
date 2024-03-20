@@ -1,0 +1,189 @@
+[
+  {
+    "id": "23899318-5bcb-46ae-85e9-5e585d94d29d",
+    "data": [
+      {
+        "text": "can you remove ",
+        "userDefined": false
+      },
+      {
+        "text": "hawawshi",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "076f4709-fa80-4d5d-baa3-e7d4fa31c6c1",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "tamyia",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69a40d41-a9e1-4d09-b7ae-92c2aabfcb71",
+    "data": [
+      {
+        "text": "I don\u0027t want ",
+        "userDefined": false
+      },
+      {
+        "text": "mahshi",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b32aced7-b301-4b99-9ef8-65059d194ff1",
+    "data": [
+      {
+        "text": "I would like to remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "umm ali",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb561408-8f9d-4a74-9e12-0eaeba34aee8",
+    "data": [
+      {
+        "text": "I\u0027d like to exclude ",
+        "userDefined": false
+      },
+      {
+        "text": "mahshi",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "kushari",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      },
+      {
+        "text": ", please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e1a7639-221d-4e82-b5b9-fffd8f7d823e",
+    "data": [
+      {
+        "text": "Kindly take ",
+        "userDefined": false
+      },
+      {
+        "text": "basbosa",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "konafa",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      },
+      {
+        "text": " off the order, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44c0cd92-549f-4020-9ed9-c756547a18e6",
+    "data": [
+      {
+        "text": "No ",
+        "userDefined": false
+      },
+      {
+        "text": "hawawshi",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "sambosa",
+        "meta": "@menu_list",
+        "alias": "menu_list",
+        "userDefined": false
+      },
+      {
+        "text": " in my order.please remove.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f1762f89-9062-45ca-b76c-1dac5e90cd68",
+    "data": [
+      {
+        "text": "what is the status of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4768a65e-e29b-46aa-8d9c-156717b430ff",
+    "data": [
+      {
+        "text": "track order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "018f2daf-8d65-4579-ba71-1a73f7143d75",
+    "data": [
+      {
+        "text": "Can i track my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

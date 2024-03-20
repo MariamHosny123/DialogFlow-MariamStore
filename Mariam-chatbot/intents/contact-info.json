@@ -1,0 +1,78 @@
+{
+  "id": "f904294c-36f3-40c5-a5dd-3a7facb412a3",
+  "parentId": "ac53a833-245b-4399-9618-6586b464dd44",
+  "rootParentId": "895c6d2f-e089-473c-bc91-63c86d6cada3",
+  "name": "contact-info",
+  "auto": true,
+  "contexts": [
+    "orderdescription-contextonging-order-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderdescription-contextonging-order.orderdescription-contextonging-order-yes.orderdescription-contextonging-order-yes-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2d7d38c9-4863-4081-971e-79d518a3d7a2",
+          "name": "phone-number",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide your number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "256a1c1e-41e6-4152-9f82-3051412cdcc8",
+          "name": "given-name",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "value": "$given-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide your name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "okay  $given-name your order is confirmed we will call you on $phone-number when it is ready and ORDER ID is #id"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
