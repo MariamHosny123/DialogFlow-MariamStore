@@ -1,1 +1,2 @@
 # DialogFlow-MariamStore
+This is a conversational AI project powered by Dialogflow, aimed at enhancing the shopping experience for users. The project utilizes natural language processing (NLP) to enable users to interact with a virtual assistant for food ordering , making inquiries, and completing purchases. With this project, users can engage in natural conversations with the virtual assistant, making food ordering more convenient and enjoyable. 
